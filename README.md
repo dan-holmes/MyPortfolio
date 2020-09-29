@@ -1,4 +1,4 @@
-## Dan Gyi - Portfolio
+## Dan Holmes - Portfolio
 
 This is my learning journey at Makers Academy.
 
@@ -22,3 +22,5 @@ Click through to any of the Week.md links for more detail.
 - I write code that is easy to change
 - I can justify the way I work
 - I grow collaboratively
+
+*Credit: Based off and forked from Dan Gyi's repo. A previous Makers student.*
