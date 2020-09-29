@@ -35,7 +35,7 @@
 #### Tuesday 20th August
 - GOAL: To be able to debug something
 - PLAN: Work through the Debugging Approaches practical.
-- EVIDENCE: **Fizzbuzz/Decoder videos** Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4) - both debugged.
+- EVIDENCE: Completed practical can be found [here](https://github.com/dan-holmes/week1_practicals).
 
 #### Wednesday 21st August
 - GOAL: Understand some basic principles of OO programming - encapsulation and SRP **✓**
