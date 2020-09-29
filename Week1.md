@@ -1,18 +1,20 @@
 # Week 1
 
 ## Weekly Goals
-1. Learn some basic TDD best practices **✓**
-2. Debug some programs with errors - follow best practices **✓**
-3. Describe some basic OO principles like encapsulation, SRP **✓**
-4. Pair using the driver-navigator style **✓**
+1. Test-drive a simple program using objects and methods
+2. Pair using the driver-navigator style
+3. Follow an effective debugging process
+4. Describe some basic OO principles like encapsulation, SRP
 
 #### Plans to achieve:
 1. Work through the Boris Bike Challenge and attend workshop
-2. Debug 2 Ruby programs that have multiple syntax and testing errors
-3. Work through OO exercises in the course week outline, and read documentation on Class, since that's an area of weak understanding that I've identified.
-4. Each afternoon work for 3 hours with different paired partners, and follow best practices to maintain collaborative repos. Request feedback in a short Google Form from each of my pair partners.
+2. Pair program for 3 hours every afternoon with a different partner every time. Request feedback and discuss the best ways to work as a pair.
+3. Complete the debugging approaches practical, and apply it in my pair programming and weekend challenge.
+4. Work through the practical on Encapsulation and Cohesion. Check my understanding of the concepts by trying to explain them to another.
 
 #### Evidence:
+*Still to complete by DH*:
+
 1. 
 - **Boris-Bikes** Exhaustive step-wise Boris Bike challenge [here](https://github.com/DanGyi23/boris_bike_challenge) - commits demonstrate different stages of unit & feature testing. Completed as part of a pair.
 - **Roman Numerals** TDD'd a very basic 1 to 10 Roman Numeral converter program. Practiced writing a test, failing it, then improving the code to make the test pass, until eventually all test criteria were passed and the code behaves as expected. Repo [here](https://github.com/DanGyi23/roman-numerals-tdd/tree/master)
@@ -31,8 +33,8 @@
 ## Daily Goals
 
 #### Tuesday 20th August
-- GOAL: To be able to debug something **✓**
-- PLAN: Work through the debugging exercises - Fizzbuzz and Decoder
+- GOAL: To be able to debug something
+- PLAN: Work through the Debugging Approaches practical.
 - EVIDENCE: **Fizzbuzz/Decoder videos** Screencaps [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-cipher.mp4) and [here](https://github.com/DanGyi23/MyPortfolio/blob/master/videos/wk1-debug-fizzbuzz.mp4) - both debugged.
 
 #### Wednesday 21st August
